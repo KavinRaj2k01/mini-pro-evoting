@@ -1,0 +1,28 @@
+    <style>
+        body{
+            text-align: center;
+        }
+        .container
+        {
+            margin-top:-30px;
+            position: absolute;
+            top:60%;
+            left:50%;
+            transform: translate(-50%,-50%);
+            height: 150px;
+            width: 150px;
+            border-color :black;
+            border-width: 2px;
+            border-style: solid;
+            border-radius: 50%;
+			background-color:white;
+			text-align:center;
+        }
+        .container #timer
+        {
+            position :absolute;
+            top:40%;
+            left:50%;
+            transform: translate(-50%,-50%);
+        }
+    </style>

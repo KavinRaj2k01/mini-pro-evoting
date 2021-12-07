@@ -1,0 +1,45 @@
+body
+{
+	background-color:black;
+}
+table{
+  color:white;
+  width:40%;
+  text-align:center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:10%;
+}
+input{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 1px 2px 2px 2px red;
+  border-radius: 12px;
+  border: 2px solid white;  
+  font-size:25px;
+}
+
+div{
+	background-image: linear-gradient(to right top, #6b78d1, #707fd5, #7586da, #7a8dde, #7f94e2, #75a0ec, #6aacf4, #60b8fb, #40cbff, #28dcff, #39ecfb, #5ffbf1);
+	float:left;
+	width:95%;
+	height:85px;
+	margin-left:1%;
+	margin-right:2%;
+	margin-top:5%;
+}
+.lead{
+	box-shadow: 0px 0px 0px 0px red; 
+    border:2px solid white;	
+	border-radius: 5px;
+	height:30px;
+	width:20%;
+	margin-top:25px;
+	text-align:center;
+	font-weight:bold;
+	padding-top:9px;
+}
